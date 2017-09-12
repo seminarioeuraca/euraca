@@ -1,0 +1,2 @@
+# euraca
+wordpress de seminarioeuraca
